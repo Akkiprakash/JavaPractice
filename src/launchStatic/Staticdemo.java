@@ -3,6 +3,7 @@ package launchStatic;
 import java.sql.Struct;
 import java.util.logging.XMLFormatter;
 
+///  this is the staic part 1
 class Student{
     int id;
     String name;

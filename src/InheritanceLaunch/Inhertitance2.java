@@ -14,8 +14,6 @@ class child extends parent{
 /// 1) inherited Method
 /// 2) overridden method
 /// 3) specailized method
-/// EXAMPLE
-
 class college{
     void institue1(){
         System.out.println("this is the ims block");

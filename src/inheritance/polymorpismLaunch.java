@@ -1,4 +1,4 @@
-package InheritanceLaunch;
+package inheritance;
 
 
 ///  OOPS CONTAINS THE 4 PILLORS THEY ARE

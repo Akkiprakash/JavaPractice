@@ -1,4 +1,4 @@
-package InheritanceLaunch;
+package inheritance;
 /// key POINTS
 /// Constructor do not participate in the inheritance but the super key in the construcotr is the responsible for  the execution of the block
 

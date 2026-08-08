@@ -1,4 +1,4 @@
-package InheritanceLaunch;
+package inheritance;
 
 import java.util.Date;
 

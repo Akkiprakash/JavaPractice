@@ -1,4 +1,4 @@
-package ExceptionHandling;
+package exceptionalhandling;
 
 /*
  Excepion hadling main topic

@@ -12,6 +12,8 @@ public class static1{
         test1.test2 fin = test. new test2();
         fin.checking();
         
+
+        toString()
     }
 
 }

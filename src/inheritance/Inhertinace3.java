@@ -1,4 +1,4 @@
-package InheritanceLaunch;
+package inheritance;
 //
 
 ///  displaying the types and the modifers in the overidden method in the inheritannce

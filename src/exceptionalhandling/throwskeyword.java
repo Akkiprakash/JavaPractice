@@ -1,4 +1,4 @@
-package ExceptionHandling;
+package exceptionalhandling;
 
 /*
 Thows -> means the providing the manual Exception

@@ -1,4 +1,4 @@
-package ExceptionHandling;
+package exceptionalhandling;
 
 /*
 -> we can acces the global variables inside and the outside

@@ -1,4 +1,4 @@
-package ExceptionHandling;
+package exceptionalhandling;
 
 public class Palidrome {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package InheritanceLaunch;
+package inheritance;
 
 ///  in polymorphism emans it have to come woth a is a realation ship
 /// it contians the upcating and the downcasting also

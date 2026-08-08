@@ -1,4 +1,4 @@
-package InheritanceLaunch;
+package inheritance;
 ///
 ///
 /// EVERY parent class extends the object class

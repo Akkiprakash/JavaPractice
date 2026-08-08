@@ -1,4 +1,4 @@
-package launchStatic;
+package launchstatic;
 
 import java.sql.Struct;
 import java.util.logging.XMLFormatter;
